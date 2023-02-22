@@ -11,6 +11,7 @@
 
 ![image-20230222143353577](README.assets/image-20230222143353577.png)
 
+- ** 请改写以下段落，让用词更准确、内容更丰富[content]**
 ### 写邮件
 
 - **申请套磁信**——I am a graduated student. I want to write an email to a professor in UIUC working on information retrieval to sell my experience and ask him if he is willing to recruit me as PhD student in the next year.
