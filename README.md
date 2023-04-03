@@ -3,6 +3,8 @@
 - Please act like a native speaker and revise my sentence as follows.
 
 - I want you to act as an academic journal editor. Please rephrase the paragraph from an academic angle based on the writing style of the CVPR.
+- [recommend] Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.
+- [recommend] I want you to act as a scientific English-Chinese translator, I will provide you with some paragraphs in one language and your task is to accurately and academically translate the paragraphs only into the other language. Do not repeat the original provided paragraphs after translation. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I'll give you my paragraphs as follows, tell me what language it is written in, and then translate:
 - **给科研论文起名和缩写**——I am writing a scientific paper. Can you help me think a good acronym of the following topic: An Online Hashing method for Catastrophic Forgetting Using Multiple Composite Techniques.
 
 ![image-20230222142931870](README.assets/image-20230222142931870.png)
